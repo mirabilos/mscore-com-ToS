@@ -56,13 +56,13 @@ You agree to provide true, accurate, current and complete information about your
 
 6.1 In some cases, MuseScore derives its rights to use the Content offered on the Service from third party content owners ("Content Providers") for fixed periods of time. As well, MuseScore is sometimes required to remove certain Content off the Service for legal reasons. Therefore, certain Content offered or advertised by MuseScore may not be available when you try to access it, and not all Content is available in all countries or territories.
 
-6.2 By using the Service, you acknowledge and agree that you have no right to provide any files obtained through the Service to any other party or through any other means. You agree that you will not duplicate or otherwise reproduce the Content, or any portion thereof, onto any physical medium, memory or device now known or hereinafter devised; except, however, that you may print out text-based Notation for your personal, non-commercial use, as permitted by our license agreements with Content Providers. With respect to certain songs, Content Providers will not permit this functionality. In addition, you agree that you will not attempt to, or encourage or assist any other person to, circumvent or modify any Content protection methods. "Notation" means a system of notation using letters, symbols, or other visual cues to indicate how a musical work is to be played. "
+6.2 By using the Service, you acknowledge and agree that you have no right to provide any files obtained through the Service to any other party or through any other means. You agree that you will not duplicate or otherwise reproduce the Content, or any portion thereof, onto any physical medium, memory or device now known or hereinafter devised; except, however, that you may print out text-based Notation for your personal, non-commercial use, as permitted by our license agreements with Content Providers. With respect to certain songs, Content Providers will not permit this functionality. In addition, you agree that you will not attempt to, or encourage or assist any other person to, circumvent or modify any Content protection methods. "Notation" means a system of notation using letters, symbols, or other visual cues to indicate how a musical work is to be played.
 
 6.3 Except as expressly stated in Section 7 (“User Generated Content”), the Content available through the Service is the property of MuseScore or its Content Providers and is protected by copyright and other intellectual property laws. Content received through the Service may be accessed for your personal, non-commercial use only.
 
 6.4 You acknowledge that MuseScore retains exclusive ownership of the Service and all intellectual property rights associated therewith, subject to the terms of the GNU Public License. The Service contains proprietary and confidential information that is protected by copyright laws and international treaty provisions. Except as expressly provided herein, you are not granted any rights or license to patents, copyrights, trade secrets or trademarks with respect to the Service or the Content, and MuseScore reserves all rights not expressly granted hereunder. You may not copy, reproduce, transfer or access (except as expressly authorized by this Agreement), re-license, reverse engineer, decompile, disassemble, translate, publish, transmit, distribute, display, broadcast, re-broadcast, redistribute, modify, create derivative works from, capture or store in any physical media, market, rent, sell, lease, sublicense, or participate in any sale of or exploit in any way, in whole or in part, directly or indirectly, the Service or any related software, except as expressly provided for in the GNU Public license. You shall promptly notify MuseScore in writing upon your discovery of any unauthorized use or infringement of the Service or the Content or MuseScore's patent, copyright, trade secret, trademarks or other intellectual property rights. Except as expressly provided for herein, any copy or use of any portion of the Service shall constitute an act of copyright infringement and a breach of this Agreement. Furthermore, MuseScore may in its sole discretion pursue any other available rights or remedies at law or in equity for a violation of this Agreement or such copyright infringement.
 
-6.3 We respect the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide our Copyright Agent the following information:
+6.5 We respect the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide our Copyright Agent the following information:
 
 (i) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
 (ii) a description of the copyrighted work or other intellectual property that you claim has been infringed;
@@ -71,9 +71,23 @@ You agree to provide true, accurate, current and complete information about your
 (v) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 (vi) a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
 
-6.4 Please note that any Content made available on or through the Service which contains or displays the YouTube logo or which is provided via the YouTube player is hosted on YouTube's servers, and MuseScore thus does not have the ability to permanently remove all or any such content from YouTube's servers. Therefore, if you have a complaint concerning any video content made available on the Service that is provided by YouTube, you should contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms. If you believe that your work is available on the Website via the YouTube player in a way that constitutes copyright infringement, please: (i) contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms and (i) contact MuseScore by sending us a notice in accordance with the provisions of this Section 6.
+Our Agent for Notice of claims of copyright or other intellectual property infringement can be reached as follows:
+By mail:
 
-6.5 The MuseScore logos and other trademarks on the site are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by MuseScore and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner.
+Copyright Agent
+MuseScore BVBA
+Octaaf Soudanstraat 22
+
+Sint-Denijs-Westrem, 9051
+Belgium
+
+Phone: 415.599.4620, ext 2
+
+Email: copyright@musecore.com
+
+6.6 Please note that any Content made available on or through the Service which contains or displays the YouTube logo or which is provided via the YouTube player is hosted on YouTube's servers, and MuseScore thus does not have the ability to permanently remove all or any such content from YouTube's servers. Therefore, if you have a complaint concerning any video content made available on the Service that is provided by YouTube, you should contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms. If you believe that your work is available on the Website via the YouTube player in a way that constitutes copyright infringement, please: (i) contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms and (i) contact MuseScore by sending us a notice in accordance with the provisions of this Section 6.
+
+6.7 The MuseScore logos and other trademarks on the site are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by MuseScore and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner.
 
 7. USER GENERATED CONTENT
 
@@ -155,4 +169,4 @@ If you need assistance with your account, you may reach Customer Support at any 
 
 We reserve the right to add, delete, change or modify parts of these Terms at our sole discretion and at any time without notice or liability to you. If we do this, we will post the changes to the Terms of Use on this page and will indicate the effective date of these Terms at the bottom of the page. It is important for you to refer to this Agreement from time to time to make sure that you are aware of any additions, revisions, or modifications that we may have made to this Agreement. Your continued use of the Service constitutes your acceptance of the new Terms.
 
-Last updated May 25, 2018
+Last updated September 10, 2018
