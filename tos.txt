@@ -1,4 +1,4 @@
-MuseScore User Agreement – Terms of Service
+Musescore User Agreement – Terms of Service
 
 THIS TERMS OF SERVICE AGREEMENT ("AGREEMENT") IS A LEGAL AND BINDING AGREEMENT BETWEEN YOU ("YOU," "YOUR" OR "YOURSELF") AND MUSESCORE BVBA ("OUR," "US," "WE" OR "MUSESCORE"), WHICH GOVERNS YOUR USE OF THE MUSECORE WEBSITE, APPS, APIs AND WIDGETS, TOGETHER WITH ALL INFORMATION, CONTENT, PRODUCTS, MATERIALS AND SERVICES MADE AVAILABLE TO YOU THROUGH THE SAME BY US (COLLECTIVELY, "THE SERVICE"). PLEASE READ THIS AGREEMENT CAREFULLY PRIOR TO USING THE SERVICE. BY REGISTERING FOR, USING OR OTHERWISE ACCESSING THE SERVICE, YOU ARE CONSENTING TO BECOME A PARTY TO THIS AGREEMENT AND AGREEING TO BE BOUND BY AND COMPLY WITH THE TERMS AND CONDITIONS HEREIN. THE SERVICE IS OFFERED AND MADE AVAILABLE ONLY TO USERS 13 YEARS OF AGE OR OLDER. IF YOU ARE NOT YET 13 YEARS OLD, PLEASE DISCONTINUE USING THE SERVICE IMMEDIATELY, OR IF, FOR ANY REASON, YOU DO NOT ACCEPT AND AGREE TO ALL THE TERMS AND CONDITIONS OF THESE TERMS OF SERVICE AND OUR PRIVACY POLICY.
 
@@ -37,8 +37,7 @@ You agree to provide true, accurate, current and complete information about your
 4.1 To cancel your account, please visit the Settings section of your Profile page. To cancel your subscription, please visit the Subscription link within the Settings section of your Profile page. If you cancel your subscription, MuseScore will not refund any remaining portion of your subscription fees except as expressly provided for herein. Please note that, following cancellation of your account or your subscription to the Service, you will not be able to access the Service.
 
     For monthly subscriptions, you may cancel your monthly subscription anytime during the month however, you will not receive a refund for the current month's subscription (which will remain active for the remainder of that month's subscription term) and your payment method will not be charged for any subsequent monthly billing periods; as a courtesy to you we will convert your account to a free account.
-
-    For subscriptions other than monthly subscriptions, if you cancel your subscription during the first fourteen (14) days of your subscription term you will receive arefund of the difference between the then-in-effect and current subscription fee to which You are subscribed and the then-in-effect and current monthly subscription fee. Your account will not auto-renew for any recurring periodic charges at the end of the subscription term. As a courtesy to you we will convert your Account to a free account at the end of the 30-day period.
+    For subscriptions other than monthly subscriptions, if you cancel your subscription during the first fourteen (14) days of your subscription term you will receive a refund of the difference between the then-in-effect and current subscription fee to which You are subscribed and the then-in-effect and current monthly subscription fee. Your account will not auto-renew for any recurring periodic charges at the end of the subscription term. As a courtesy to you we will convert your Account to a free account at the end of the 30-day period.
 
 Your non-termination or continued use of the Service reaffirms that MuseScore is authorized to charge your payment method. We may submit those charges for payment and you agree you will be responsible for such charges. This does not waive our right to seek payment directly from you.
 
@@ -64,20 +63,26 @@ Your non-termination or continued use of the Service reaffirms that MuseScore is
 
 6.2 By using the Service, you acknowledge and agree that you have no right to provide any files obtained through the Service to any other party or through any other means. You agree that you will not duplicate or otherwise reproduce the Content, or any portion thereof, onto any physical medium, memory or device now known or hereinafter devised. In addition, you agree that you will not attempt to, or encourage or assist any other person to, circumvent or modify any Content protection methods.
 
-6.3 Except as expressly stated in Section 7 (“User Generated Content”), the Content available through the Service is the property of MuseScore or its Content Providers and is protected by copyright and other intellectual property laws. Content received through the Service may be accessed for your personal, non-commercial use only. Without limiting the foregoing, this means that you may not use the Content for classroom purposes.
+6.3 Except as expressly stated in Section 7 (“User Generated Content”), the Content available through the Service is the property of MuseScore or its Content Providers and is protected by copyright and other intellectual property laws. Content received through the Service may be accessed for your personal, non-commercial use only. Without limiting the foregoing, this means that you may not use the Content for classroom purposes, except when permitted by our Content Providers.
 
 6.4 You acknowledge that MuseScore retains exclusive ownership of the Service and all intellectual property rights associated therewith, subject to the terms of the GNU Public License. The Service contains proprietary and confidential information that is protected by copyright laws and international treaty provisions. Except as expressly provided herein, you are not granted any rights or license to patents, copyrights, trade secrets or trademarks with respect to the Service or the Content, and MuseScore reserves all rights not expressly granted hereunder. You may not copy, reproduce, transfer or access (except as expressly authorized by this Agreement), re-license, reverse engineer, decompile, disassemble, translate, publish, transmit, distribute, display, broadcast, re-broadcast, redistribute, modify, create derivative works from, capture or store in any physical media, market, rent, sell, lease, sublicense, or participate in any sale of or exploit in any way, in whole or in part, directly or indirectly, the Service or any related software, except as expressly provided for in the GNU Public license. You shall promptly notify MuseScore in writing upon your discovery of any unauthorized use or infringement of the Service or the Content or MuseScore's patent, copyright, trade secret, trademarks or other intellectual property rights. Except as expressly provided for herein, any copy or use of any portion of the Service shall constitute an act of copyright infringement and a breach of this Agreement. Furthermore, MuseScore may in its sole discretion pursue any other available rights or remedies at law or in equity for a violation of this Agreement or such copyright infringement.
 
 6.5 We respect the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide our Copyright Agent the following information:
 
 (i) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+
 (ii) a description of the copyrighted work or other intellectual property that you claim has been infringed;
+
 (iii) a description of where the material that you claim is infringing is located on the site;
+
 (iv) your address, telephone number, and email address;
+
 (v) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+
 (vi) a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
 
 Our Agent for Notice of claims of copyright or other intellectual property infringement can be reached as follows:
+
 By mail:
 Copyright Agent
 MuseScore BVBA
@@ -87,9 +92,9 @@ Belgium
 Phone: 415.599.4620, ext 2
 Email: copyright@musecore.com
 
-6.5 Please note that any Content made available on or through the Service which contains or displays the YouTube logo or which is provided via the YouTube player is hosted on YouTube's servers, and MuseScore thus does not have the ability to permanently remove all or any such content from YouTube's servers. Therefore, if you have a complaint concerning any video content made available on the Service that is provided by YouTube, you should contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms. If you believe that your work is available on the Website via the YouTube player in a way that constitutes copyright infringement, please: (i) contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms and (i) contact MuseScore by sending us a notice in accordance with the provisions of this Section 6.
+6.6 Please note that any Content made available on or through the Service which contains or displays the YouTube logo or which is provided via the YouTube player is hosted on YouTube's servers, and MuseScore thus does not have the ability to permanently remove all or any such content from YouTube's servers. Therefore, if you have a complaint concerning any video content made available on the Service that is provided by YouTube, you should contact YouTube directly in accordance with copyright policies at: http://www.youtube.com/t/terms. If you believe that your work is available on the Website via the YouTube player in a way that constitutes copyright infringement, please: (i) contact YouTube directly in accordance with copyright policies at:http://www.youtube.com/t/terms and (i) contact MuseScore by sending us a notice in accordance with the provisions of this Section 6.
 
-6.6 The MuseScore logos and other trademarks on the site are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by MuseScore and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner.
+6.7 The MuseScore logos and other trademarks on the site are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by MuseScore and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner.
 
 7. USER GENERATED CONTENT
 
@@ -97,7 +102,7 @@ Email: copyright@musecore.com
 
 7.2 MuseScore does not claim any ownership rights in User Generated Content that you transmit, submit, display or publish ("post") on, through or in connection with the Service. After posting your User Generated Content on, through or in connection with the Service, you continue to retain any such rights that you may have in your User Generated Content, subject to the limited license herein. By posting any User Generated Content on, through or in connection with the Service, you hereby grant to MuseScore a limited license to use, modify, delete from, add to, publicly perform, publicly display, reproduce, and distribute such User Generated Content solely on, through or in connection with the Service, including, without limitation, through the Service to applications, widgets, websites or mobile, desktop, including, without limitation, distributing part or all of the Service and any User Generated Content included therein, in any media formats and through any media channels, including without limitation, third party social media and streaming platforms, and shall constitute a waiver of any rights, ''moral rights,'' or any similar rights under any jurisdiction. Except as expressly provided for herein, this limited license does not grant MuseScore the right to sell or otherwise distribute your User Generated Content outside of the Service.
 
-7.3 The license you grant to MuseScore is non-exclusive (meaning you are free to license your User Generated Content to anyone else in addition to MuseScore), fully-paid and royalty-free (meaning that MuseScore is not required to pay you or anyone else deriving rights from you for the use on the Service of the User Generated Content that you post), sublicensable (so that MuseScore is able to use its affiliates, subcontractors and other partners such as Internet content delivery networks and wireless carriers to provide the Service) and worldwide (because the Internet and the Service is global in reach).
+7.3 The license you grant to MuseScore is non-exclusive (meaning you are free to license your User Generated Content to anyone else in addition to MuseScore), fully-paid and royalty-free (meaning that MuseScore is not required to pay you or anyone else deriving rights from you for the use on the Service of the User Generated Content that you post), sublicensable (so that MuseScore is able to use its affiliates, subcontractors and other partners such as Internet content delivery networks and wireless carriers to provide the Services), perpetual (meaning that no termination of this Agreement will affect the license granted by you), and worldwide (because the Internet and the Services are global in reach).
 
 7.4 MuseScore reserves the right not to post or publish any User Generated Content, and to delete, remove or edit any User Generated Content, at any time in its sole discretion without notice or liability. Without limiting the foregoing, User Generated Content which is not playable, downloadable and/or displayable in mobile apps, or which is posted primarily for the purpose of promoting another website or service, may be removed in MuseScore’s sole discretion and without notice or liability.
 
@@ -147,6 +152,12 @@ Any website that links to the Service or on which you include the MuseScore widg
 
 MuseScore takes your privacy seriously and operates under the policies and principles outlined in its Privacy Policy, which contains important information and disclosures relating to the collection and use of your personally identifiable information in connection with your use of the Service. Our Privacy Policy is set forth here.
 
+16. EXPORT
+
+You assume all responsibility for compliance with all laws and regulations of the United States, including but not limited to the U.S. Export Administration Regulations (“EAR”) and economic sanctions administered by the U.S. Treasury Department’s Office of Foreign Assets Control (“OFAC”), and those of any other country from which You may access musescore.com regarding access, use, transfer, release, export, re-export and import of any Content appearing on or available through musescore.com.
+
+You represent, warrant and covenant that (i) you will not export or import any Content or use any Content for transactions involving any country, region or government to which export, re-export or transfer is restricted under United States law or any country, region or government subject to an OFAC embargoed (which, for the purposes of these terms, means a country, region or government in respect to which the U.S. has imposed an embargo from time to time, at present which can be found here); (ii) you are not and will not transfer Content to a person identified on U.S. or other applicable government restricted party lists with whom transactions are prohibited, including but not limited to OFAC’s Specially Designated Nationals (“SDN”) List or the EAR’s Entity List or Denied Persons List (collectively, “Restricted Parties”), or any person acting on behalf of such party.
+
 16. CUSTOMER SUPPORT
 
 If you need assistance with your account, you may reach Customer Support at any time here: https://musescore.com/contact or by email at support@musescore.com. Please note that these are the only methods to contact MuseScore for Customer Support; there is no Customer Support by telephone or fax. The Disclaimers of Warranties and Limitations of Liability set forth in these Terms of Use expressly apply to the use of Customer Support. We may utilize the services of third parties in providing you Customer Support.
@@ -167,8 +178,8 @@ If you need assistance with your account, you may reach Customer Support at any 
 
 17.7 A printed version of this Agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
-20. CHANGES OR MODIFICATIONS
+18. CHANGES OR MODIFICATIONS
 
 We may change, suspend, or discontinue the Service, or any part of the Service, at any time without notice. We reserve the right to add, delete, change or modify parts of these Terms at our sole discretion and at any time without notice or liability to you. If we do this, we will post the changes to the Terms of Service on this page and will indicate the effective date of these Terms at the bottom of the page. It is important for you to refer to this Agreement from time to time to make sure that you are aware of any additions, revisions, or modifications that we may have made to this Agreement. Your continued use of the Service constitutes your acceptance of the new Terms.
 
-Last updated September 17, 2019
+Last updated June 15, 2021
